@@ -1,0 +1,9 @@
+Package: jp.r-plus.sideways
+Name: Sideways
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Force screen rotate when play video on safari.
+Maintainer: r_plus
+Author: r_plus
+Section: Tweaks
